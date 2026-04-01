@@ -12,8 +12,6 @@ Real-time obstacle detection system using YOLOv8 and voice alerts.
 ```bash
 pip install -r requirements.txt
 
----
 
 ## Run
-```bash
 python obstacle_detection.py
